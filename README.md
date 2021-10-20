@@ -6,3 +6,6 @@
 > 프론트엔드 - 박준희, 소연수, 황수진
 
 > 백엔드 - 김용주, 박상준
+
+
+![홈 – 1](https://user-images.githubusercontent.com/65909443/138092812-c4b28710-e3da-4f77-b173-2068957ccd69.png)
